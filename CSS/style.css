@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(130, 110, 146);
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+    color: antiquewhite;
+}
+h2 {
+    font-size: 15;
+    color: antiquewhite;
+}
+a:link {
+    background-color: rgb(83, 60, 102);
+    color: antiquewhite;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+a:visited {
+    background-color: rgb(83, 60, 102);
+    color: antiquewhite;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover {
+    background-color: antiquewhite;
+    color: rgb(83, 60, 102);
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
